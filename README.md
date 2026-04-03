@@ -1,4 +1,4 @@
-💰 Simple Interest Calculator
+# Simple Interest Calculator
 
 This project is part of the final assignment for the IBM course “Getting Started with Git and GitHub”.
 
@@ -6,7 +6,7 @@ It provides a simple Bash script named simple-interest.sh to calculate simple in
 
 ⸻
 
-📌 Description
+##📌 Project Description
 
 The Simple Interest Calculator is a command-line tool written in Bash that computes interest using the formula:
 
@@ -27,19 +27,19 @@ This project demonstrates key Git and GitHub concepts such as:
 
 ⸻
 
-📊 Input
+## 📊 Input
  • p: principal amount
  • t: time period in years
  • r: annual rate of interest
 
 ⸻
 
-📈 Output
+## 📈 Output
  • simple interest = p * t * r / 100
 
 ⸻
 
-⚙️ Features
+## 🚀 Features
  • Interactive command-line interface
  • Accepts user input
  • Accurate calculation using Bash
@@ -47,7 +47,7 @@ This project demonstrates key Git and GitHub concepts such as:
 
 ⸻
 
-📥 Installation
+## 📦 Installation & Setup
 
 Clone the repository:
 
@@ -57,7 +57,7 @@ cd github-final-project
 
 ⸻
 
-▶️ Usage
+## ▶️ Usage
 
 Run the script:
 
@@ -70,7 +70,7 @@ Enter the required values when prompted:
 
 ⸻
 
-📂 Project Structure
+## 🏗️ Project Architecture
 
 github-final-project/
 │
@@ -83,7 +83,7 @@ github-final-project/
 
 ⸻
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 
@@ -96,29 +96,35 @@ You can contribute by:
 
 ⸻
 
-📜 Code of Conduct
+## 📜 Code of Conduct
 
 This project follows a Code of Conduct to ensure a respectful and inclusive environment.
 See CODE_OF_CONDUCT.md for more details.
 
 ⸻
 
-🛡️ License
+## 📝 License
 
 This project is licensed under the Apache License 2.0.
 
 ⸻
 
-👨‍💻 Author
- • Mukhammed (https://github.com/mukhammedofficial)
+## 👨‍💻 Author
+
+  **Muhammad(Muhammadayubkhon) Dadakhanov**
+
+ - GitHub: [@mukhammedofficial](https://github.com/mukhammedofficial)
+ - Course: IBM - Getting Started with Git and GitHub
+ - Project Repository: [Final-project](https://github.com/mukhammedofficial/github-final-project)
+⸻
+
+## 🙏 Acknowledgments
+ • IBM Skills Network
+ • Open-source community
 
 ⸻
 
-🎯 Course Context
-
-This repository was created as part of the IBM Skills Network course:
-
-Getting Started with Git and GitHub
+## 📚 Additional Resources
 
 It demonstrates:
  • Open-source project setup
@@ -127,8 +133,14 @@ It demonstrates:
 
 ⸻
 
-🚀 Acknowledgements
- • IBM Skills Network
- • Open-source community
+## 📞 Support
 
-⸻
+For questions or issues related to this project:
+
+1. Check the [Issues](https://github.com/mukhammedofficial/Final-project/issues) page
+2. Review the course discussion forums
+3. Contact the course instructors
+
+---
+
+**⭐ If you found this project helpful, please consider giving it a star!**
