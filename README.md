@@ -1,49 +1,56 @@
 # Simple Interest Calculator
 
-This project is part of the final assignment for the IBM course “Getting Started with Git and GitHub”.
+This project is part of the final assignment for the IBM course **"Getting Started with Git and GitHub"**.
 
-It provides a simple Bash script named simple-interest.sh to calculate simple interest based on user input.
+It provides a simple Bash script named `simple-interest.sh` to calculate **simple interest** based on user input.
 
 ---
 
-##📌 Project Description
+## 📌 Project Description
 
 The Simple Interest Calculator is a command-line tool written in Bash that computes interest using the formula:
 
+[
 \text{Simple Interest} = \frac{P \times R \times T}{100}
+]
 
 Where:
- • P = Principal amount
- • R = Annual rate of interest
- • T = Time period (in years)
+
+* **P** = Principal amount
+* **R** = Annual rate of interest
+* **T** = Time period (in years)
 
 This project demonstrates key Git and GitHub concepts such as:
- • Repository creation
- • Branching and merging
- • Pull requests
- • Collaboration using Git CLI
+
+* Repository creation
+* Branching and merging
+* Pull requests
+* Collaboration using Git CLI
 
 ⚠️ This script is for educational purposes only and should not be used in production.
 
 ---
 
 ## 📊 Input
- • p: principal amount
- • t: time period in years
- • r: annual rate of interest
+
+* p: principal amount
+* t: time period in years
+* r: annual rate of interest
 
 ---
 
 ## 📈 Output
- • simple interest = p * t * r / 100
+
+ * simple interest = p * t * r / 100
 
 ---
 
 ## 🚀 Features
- • Interactive command-line interface
- • Accepts user input
- • Accurate calculation using Bash
- • Lightweight and easy to use
+
+* Interactive command-line interface
+* Accepts user input
+* Accurate calculation using Bash
+* Lightweight and easy to use
 
 ---
 
@@ -51,9 +58,10 @@ This project demonstrates key Git and GitHub concepts such as:
 
 Clone the repository:
 
+```bash
 git clone https://github.com/mukhammedofficial/github-final-project.git
 cd github-final-project
-
+```
 
 ---
 
@@ -61,17 +69,21 @@ cd github-final-project
 
 Run the script:
 
+```bash
 bash simple-interest.sh
+```
 
 Enter the required values when prompted:
- • Principal amount
- • Time period (years)
- • Rate of interest
+
+* Principal amount
+* Time period (years)
+* Rate of interest
 
 ---
 
 ## 🏗️ Project Architecture
 
+```
 github-final-project/
 │
 ├── README.md
@@ -79,7 +91,7 @@ github-final-project/
 ├── CODE_OF_CONDUCT.md
 ├── CONTRIBUTING.md
 └── simple-interest.sh
-
+```
 
 ---
 
@@ -87,25 +99,26 @@ github-final-project/
 
 Contributions are welcome!
 
-Please read the CONTRIBUTING.md file before submitting a pull request.
+Please read the **CONTRIBUTING.md** file before submitting a pull request.
 
 You can contribute by:
- • Reporting bugs
- • Suggesting improvements
- • Enhancing documentation
+
+* Reporting bugs
+* Suggesting improvements
+* Enhancing documentation
 
 ---
 
 ## 📜 Code of Conduct
 
 This project follows a Code of Conduct to ensure a respectful and inclusive environment.
-See CODE_OF_CONDUCT.md for more details.
+See **CODE_OF_CONDUCT.md** for more details.
 
 ---
 
 ## 📝 License
 
-This project is licensed under the Apache License 2.0.
+This project is licensed under the **Apache License 2.0**.
 
 ---
 
@@ -114,22 +127,23 @@ This project is licensed under the Apache License 2.0.
   **Muhammad(Muhammadayubkhon) Dadakhanov**
 
  - GitHub: [@mukhammedofficial](https://github.com/mukhammedofficial)
- - Course: IBM - Getting Started with Git and GitHub
+ - Course: IBM - **Getting Started with Git and GitHub**
  - Project Repository: [Final-project](https://github.com/mukhammedofficial/github-final-project)
 ---
 
 ## 🙏 Acknowledgments
- • IBM Skills Network
- • Open-source community
+* IBM Skills Network
+* Open-source community
 
 ---
 
 ## 📚 Additional Resources
 
 It demonstrates:
- • Open-source project setup
- • GitHub best practices
- • Version control using Git
+
+* Open-source project setup
+* GitHub best practices
+* Version control using Git
 
 ---
 
