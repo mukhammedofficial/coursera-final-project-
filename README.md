@@ -1,5 +1,3 @@
-:::writing{variant=“standard” id=“58214”}
-
 💰 Simple Interest Calculator
 
 This project is part of the final assignment for the IBM course “Getting Started with Git and GitHub”.
