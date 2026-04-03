@@ -2,7 +2,7 @@
 
 This project is part of the final assignment for the IBM course “Getting Started with Git and GitHub”.
 
-It provides a simple Bash script to calculate simple interest based on user input.
+It provides a simple Bash script named simple-interest.sh to calculate simple interest based on user input.
 
 ⸻
 
@@ -22,6 +22,20 @@ This project demonstrates key Git and GitHub concepts such as:
  • Branching and merging
  • Pull requests
  • Collaboration using Git CLI
+
+⚠️ This script is for educational purposes only and should not be used in production.
+
+⸻
+
+📊 Input
+ • p: principal amount
+ • t: time period in years
+ • r: annual rate of interest
+
+⸻
+
+📈 Output
+ • simple interest = p * t * r / 100
 
 ⸻
 
